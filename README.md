@@ -1,6 +1,5 @@
 # Tubes-AKA
-Judul : Perbandingan Algoritma Pengurutan Data: 
-Pendekatan Iteratif Insertion Sort dan Rekursif QUick Sort untuk Efisiensi Pengelolaan Data Belanja Online 
+Judul : Perbandingan Algoritma Pengurutan Data: Pendekatan Iteratif Insertion Sort dan Rekursif QUick Sort untuk Efisiensi Pengelolaan Data Belanja Online 
 Anggota :
 Adelina Vivian Magdiel	(103052300059) 
 Felicia Cyntia Febriani	(103052300086)
